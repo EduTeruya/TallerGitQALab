@@ -3,3 +3,6 @@ Verde
 Amarillo
 Verde
 Morado
+Rosado
+Gris
+Negro
