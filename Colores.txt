@@ -6,3 +6,4 @@ Morado
 Rosado
 Gris
 Negro
+Purpura
