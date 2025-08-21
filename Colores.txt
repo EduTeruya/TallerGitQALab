@@ -7,3 +7,5 @@ Rosado
 Gris
 Negro
 Purpura
+Rojo
+Mostaza
